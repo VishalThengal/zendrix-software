@@ -11,7 +11,11 @@ Initial Security()
 }
 
 {
+<<<<<<< HEAD
 	security patch ()
+=======
+	security patch 2 ()
+>>>>>>> Feature2
 }
 
 }
